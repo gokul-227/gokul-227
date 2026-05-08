@@ -19,7 +19,7 @@
 
 # 🧠 EXECUTIVE SUMMARY 
 
-I am a **Senior AWS Cloud Solution Architect and Senior AWS Data Engineer with 8+ years of experience** designing and delivering enterprise-scale cloud platforms, distributed data systems, and backend architectures.
+I am a **Senior AWS Solution Architect and Senior AWS Data Engineer with 8+ years of experience** designing and delivering enterprise-scale cloud platforms, distributed data systems, and backend architectures.
 
 I specialize in building **highly scalable, secure, and cost-optimized cloud solutions** using AWS, with strong adaptability to Azure and GCP environments.
 
@@ -126,17 +126,6 @@ Delivered measurable enterprise impact:
 
 ---
 
-# 💼 PROFESSIONAL EXPERIENCE
-
-| Role | Company | Duration |
-|-----|---------|----------|
-| Senior AWS Data Engineer | NatWest Group | 2024 – 2026 |
-| AWS Data Engineer | Infosys | 2021 – 2024 |
-| Data Engineer | IBM | 2019 – 2021 |
-| Software Engineer Intern | iPrimed | 2018 – 2019 |
-
----
-
 # 🎯 LEADERSHIP & OWNERSHIP EXPERIENCE
 
 ✔ Led end-to-end design of enterprise cloud platforms  
@@ -155,80 +144,6 @@ Delivered measurable enterprise impact:
 ✔ Security & compliance by default  
 ✔ Cost-aware cloud engineering  
 ✔ Maintainable and observable systems  
-
----
-
-# 🎓 EDUCATION
-
-| Degree | Field | Institution |
-|------|------|-------------|
-| B.Tech | Information Technology | Anna University |
-
----
-
-# 🏆 CERTIFICATIONS
-
-✔ AWS Certified Solutions Architect  
-✔ AWS Certified Developer  
-✔ AWS Certified Data Engineer  
-✔ AWS Cloud Practitioner  
-
----
-
-# 🚀 OPEN TO ROLES (EUROPE / GERMANY)
-
-Actively seeking senior opportunities in:
-
-🔹 Senior Cloud Solution Architect  
-🔹 Senior AWS Data Engineer  
-🔹 Senior Platform Engineer  
-🔹 Senior Backend Engineer  
-🔹 Data Platform Engineer  
-🔹 Cloud Migration Architect  
-🔹 DevOps / Infrastructure Engineer (Senior IC)  
-
----
-
-# 📍 LOCATION & AVAILABILITY
-
-📍 Berlin, Germany  
-🛂 Chancenkarte Holder (No Sponsorship Required)  
-🌍 Open to relocation across Europe  
-⚡ Immediate Joiner  
-
----
-
-# 📫 CONTACT
-
-📧 Email: gokul.227.r@gmail.com  
-
-🇩🇪 Germany: +49 1521 5720743  
-🇮🇳 India: +91 9943316256  
-🇺🇸 US: +1 (647) 957-5025  
-
-💻 GitHub: github.com/gokul-227  
-🌐 Portfolio: gokul-portfolio-227.web.app  
-
----
-
-<div align="center">
-
-⭐ Designing Scalable Cloud & Data Platforms for Global Enterprises ⭐
-
-</div>
-
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul.227.r@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-07) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gokul227) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gocool_r) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gokul_r_07) 
-
-</div>
 
 ---
 
@@ -286,23 +201,6 @@ Actively seeking senior opportunities in:
 | Infrastructure | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white), ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white), CloudFormation|
 | Containers | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
----
-
-# 🚀 CORE COMPETENCIES
-
-<div align="center">
-
-| DOMAIN | EXPERTISE LEVEL | FOCUS |
-|------|----------------|------|
-| AWS Cloud Architecture | ⭐⭐⭐⭐⭐ | Enterprise Architecture |
-| Data Engineering | ⭐⭐⭐⭐⭐ | Batch & Real-time pipelines |
-| ETL Development | ⭐⭐⭐⭐⭐ | Glue, PySpark, Airflow |
-| Data Warehousing | ⭐⭐⭐⭐⭐ | Redshift, Athena, Snowflake |
-| Cloud Migration | ⭐⭐⭐⭐⭐ | Legacy to AWS |
-| DevOps & IaC | ⭐⭐⭐⭐ | Terraform, CI/CD |
-| Distributed Systems | ⭐⭐⭐⭐ | Scalable architectures |
-
-</div>
 
 ---
 
@@ -348,92 +246,58 @@ Actively seeking senior opportunities in:
 
 ---
 
-# 🔹 WHAT I CAN DO FOR YOU
+# 🚀 OPEN TO ROLES (EUROPE / GERMANY)
 
-✔ Design & implement enterprise-grade AWS data platforms  
-✔ Build high-performance batch & real-time pipelines  
-✔ Implement serverless & event-driven architectures  
-✔ Automate infrastructure, deployments & governance  
-✔ Optimize AWS cost, performance & reliability  
-✔ Secure data platforms with compliance-ready architectures  
-✔ Provide clear documentation & operational support  
-✔ Deliver production-ready scalable solutions  
+Actively seeking senior opportunities in:
 
----
-
-# 🔹 RESULTS I DELIVER
-
-📉 Reduced AWS & licensing costs by up to 35%  
-⚡ Improved ETL & pipeline performance by 40–50%  
-📊 Built pipelines processing TB-scale enterprise data  
-🤖 Reduced manual operations by 60–70%  
-🏗 Delivered production-ready enterprise systems  
-🔐 Implemented RBAC, encryption & governance  
-📈 Enabled real-time analytics & business intelligence  
-🚀 Improved scalability, reliability & performance  
+🔹 Senior Cloud Solution Architect - AWS  
+🔹 Senior Cloud Data Engineer - AWS  
+🔹 Senior Backend Engineer - AWS  
+🔹 Senior Cloud Data Platform Engineer - AWS  
+🔹 DevOps / Infrastructure Engineer - AWS  
 
 ---
 
+# 📍 LOCATION & AVAILABILITY
 
-# 🔹 ENGAGEMENT MODELS
-
-• Full-time employment opportunities  
-• Contract and freelance consulting  
-• Cloud architecture consulting  
-• AWS migration projects  
-• Performance optimization engagements  
-• Long-term or short-term engagements  
-• Architecture review & advisory  
-• End-to-end system design and implementation  
+📍 Berlin, Germany  
+🛂 Chancenkarte Holder (No Sponsorship Required)  
+🌍 Open to relocation across Germany / Europe  
+⚡ Immediate Joiner  
 
 ---
 
-# 🔹 IDEAL CLIENTS
+# 📫 CONTACT
 
-✔ Enterprises migrating legacy systems to AWS  
-✔ Startups building modern data platforms  
-✔ Organizations optimizing cloud performance  
-✔ Companies scaling data infrastructure  
-✔ Teams requiring secure data platforms  
-✔ Businesses needing enterprise architecture  
-✔ Clients requiring production-ready solutions  
-✔ Organizations prioritizing scalability & reliability  
+📧 Email: gokul.227.r@gmail.com  
+🌐 LinkedIn: linkedin.com/in/gokul-07
 
----
+🇩🇪 Germany: +49 1521 5720743  
+🇮🇳 India: +91 9943316256  
+🇺🇸 US: +1 (647) 957-5025  
 
-# 🔹 IMPACT & EXCELLENCE
-
-💡 Delivered enterprise-scale AWS platforms  
-💡 Built highly scalable data pipelines  
-💡 Enabled real-time business analytics  
-💡 Improved system reliability & performance  
-💡 Reduced operational complexity  
-💡 Implemented secure cloud architectures  
-💡 Ensured compliance and governance  
-💡 Delivered measurable business value  
-
----
+💻 GitHub: github.com/gokul-227  
+🌐 Portfolio: gokul-portfolio-227.web.app  
 
 
-
-# 📊 GitHub Analytics
+# 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokul-07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-07&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-07&theme=tokyo-night&hide_border=true"/>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul.227.r@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-07) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gokul227) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gocool_r) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gokul_r_07) 
 
 </div>
 
 ---
-
-
 
 <div align="center">
 
 ⭐ Architecting Enterprise-Grade Cloud Data Platforms That Scale, Perform, and Last ⭐
 
 </div>
+
+
