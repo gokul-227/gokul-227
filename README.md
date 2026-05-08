@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Gokul%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20Cloud%20Solution%20Architect%20%7C%20AWS%20Data%20Engineer%20%7C%20Platform%20Engineer&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Gokul%20&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20Cloud%20Solution%20Architect%20%7C%20AWS%20Data%20Engineer%20%7C%20Platform%20Engineer&descAlignY=70"/>
 
 <br/>
 
