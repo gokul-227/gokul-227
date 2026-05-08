@@ -1,34 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=260&section=header&text=Gokul%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20AWS%20Data%20Engineer%20%7C%20Cloud%20Solutions%20Architect%20%7C%20Enterprise%20Data%20Platform%20Expert&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Gokul%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20Cloud%20Solution%20Architect%20%7C%20AWS%20Data%20Engineer%20%7C%20Platform%20Engineer&descAlignY=70"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Designing+Enterprise-Scale+AWS+Data+Platforms;Building+Secure+and+Scalable+Cloud+Architectures;Expert+in+ETL%2C+Glue%2C+Lambda%2C+Athena%2C+PySpark;Cloud+Migration+%7C+Data+Engineering+%7C+Serverless;Delivering+Production-Grade+Systems+That+Scale"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Enterprise+Cloud+Architecture+%7C+AWS+%7C+Azure+%7C+GCP+Ready;Designing+Scalable+Distributed+Data+Systems;Building+Secure+%26+High-Performance+Backend+Platforms;Expert+in+ETL%2C+Streaming%2C+APIs+%26+Cloud+Migration;Delivering+Production-Grade+Systems+for+Global+Enterprises"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS-Senior%20Expert-FF9900?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Data%20Engineer-Enterprise-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Architect-Professional-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Senior%20Cloud%20Architect-Enterprise%20Grade-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Expert-Data%20%26%20Platform-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Europe%20Ready-Germany%20Focused-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 Executive Profile
+# 🧠 EXECUTIVE SUMMARY 
 
-I am a **Senior AWS Data Engineer and Cloud Solutions Architect with 8+ years of experience designing and delivering enterprise-scale cloud data platforms** across Banking, Healthcare, Insurance, and Retail industries.
+I am a **Senior AWS Cloud Solution Architect and Senior AWS Data Engineer with 8+ years of experience** designing and delivering enterprise-scale cloud platforms, distributed data systems, and backend architectures.
 
-I specialize in building **secure, high-performance ETL pipelines, modern data lakes, and scalable distributed data systems** capable of processing terabytes of data efficiently using AWS serverless and big data technologies.
+I specialize in building **highly scalable, secure, and cost-optimized cloud solutions** using AWS, with strong adaptability to Azure and GCP environments.
 
-My expertise includes **end-to-end architecture design, cloud migration, infrastructure automation, and production deployment**, ensuring reliability, scalability, security, and cost optimization.
+My expertise spans:
 
-I focus on building **production-grade, mission-critical systems that scale reliably and deliver long-term business value.**
+- Enterprise cloud architecture design  
+- Large-scale data engineering platforms  
+- Backend system design & microservices  
+- API-driven integration ecosystems  
+- Real-time & batch data processing systems  
+- Cloud migration & modernization programs  
+
+I operate at the intersection of **architecture, engineering, and platform strategy**, delivering systems that support **mission-critical enterprise workloads**.
 
 ---
+
+# 🇩🇪 WHY EUROPE / GERMANY TEAMS HIRE ME
+
+✔ Strong system design & architecture thinking  
+✔ Hands-on engineering (not just design-level)  
+✔ Experience in regulated enterprise environments  
+✔ Strong focus on security, compliance, governance  
+✔ Cloud cost optimization mindset (important in EU market)  
+✔ Ability to work in distributed international teams  
+✔ Strong ownership & end-to-end delivery mindset  
+✔ Adaptable across AWS / Azure / GCP environments  
+
+---
+
+# 🏢 DOMAIN EXPERIENCE
+
+Worked across complex enterprise environments including:
+
+🏦 Banking & Financial Services (Regulated Systems)  
+🏥 Healthcare Data Platforms (Secure & Compliant Systems)  
+🛒 Retail & E-Commerce (High-scale transaction systems)  
+📊 Enterprise Analytics & BI Platforms  
+🏭 Supply Chain & Manufacturing Data Systems  
+📚 Learning & Digital Platforms  
+☁️ Cloud Migration & Legacy Modernization Programs  
+
+---
+
+# 🏗️ ARCHITECTURE EXPERTISE
+
+I design and deliver:
+
+✔ Cloud-native distributed systems  
+✔ Event-driven architectures  
+✔ Data lake & lakehouse architectures  
+✔ Streaming data platforms  
+✔ API-first enterprise ecosystems  
+✔ Microservices-based backend systems  
+✔ Multi-account AWS enterprise setups  
+✔ Secure & compliant cloud architectures (IAM/KMS/Lake Formation)  
+
+---
+
+# ☁️ CLOUD & PLATFORM SPECIALIZATION
+
+## AWS (Primary Platform)
+
+✔ Serverless architectures (Lambda, Step Functions)  
+✔ Data platforms (Glue, Athena, EMR, Redshift)  
+✔ Streaming systems (Kinesis, Kafka/MSK, EventBridge)  
+✔ API & integration (API Gateway, SQS, SNS)  
+✔ Security & governance (IAM, KMS, Lake Formation)  
+✔ Infrastructure automation (CloudFormation, Terraform)  
+
+## Multi-Cloud Readiness
+
+✔ Azure Cloud (architecture & migration capability)  
+✔ Google Cloud Platform (data & analytics services)  
+✔ Cloud-agnostic system design patterns  
+
+---
+
+# 🧠 CORE ENGINEERING STRENGTHS
+
+✔ Cloud Solution Architecture  
+✔ Data Engineering (Batch & Real-time)  
+✔ Backend Engineering (Microservices)  
+✔ API Design & Integration Architecture  
+✔ Distributed Systems Design  
+✔ ETL / ELT Pipeline Engineering  
+✔ Data Modeling & Warehousing  
+✔ Performance Optimization & Scalability Engineering  
+✔ DevOps & Infrastructure Automation  
+✔ Cloud Migration & Modernization  
+
+---
+
+# 📊 IMPACT & BUSINESS OUTCOMES
+
+Delivered measurable enterprise impact:
+
+📉 Reduced infrastructure & licensing costs up to 35%  
+⚡ Improved data pipeline performance by 40–50%  
+📊 Built TB-scale distributed data processing systems  
+🔁 Reduced manual operational effort by 60%+  
+🏗 Delivered production-grade cloud platforms  
+🔐 Implemented enterprise security & governance frameworks  
+🚀 Enabled real-time analytics & decision systems  
+
+---
+
+# 💼 PROFESSIONAL EXPERIENCE
+
+| Role | Company | Duration |
+|-----|---------|----------|
+| Senior AWS Data Engineer | NatWest Group | 2024 – 2026 |
+| AWS Data Engineer | Infosys | 2021 – 2024 |
+| Data Engineer | IBM | 2019 – 2021 |
+| Software Engineer Intern | iPrimed | 2018 – 2019 |
+
+---
+
+# 🎯 LEADERSHIP & OWNERSHIP EXPERIENCE
+
+✔ Led end-to-end design of enterprise cloud platforms  
+✔ Worked with architecture & security teams on governance models  
+✔ Collaborated with global engineering teams (EU/UK/India)  
+✔ Participated in technical design decisions & system reviews  
+✔ Delivered production systems used by enterprise users  
+
+---
+
+# ⚙️ DELIVERY PRINCIPLES
+
+✔ Production-first engineering mindset  
+✔ Scalable-by-design architecture approach  
+✔ Automation over manual processes  
+✔ Security & compliance by default  
+✔ Cost-aware cloud engineering  
+✔ Maintainable and observable systems  
+
+---
+
+# 🎓 EDUCATION
+
+| Degree | Field | Institution |
+|------|------|-------------|
+| B.Tech | Information Technology | Anna University |
+
+---
+
+# 🏆 CERTIFICATIONS
+
+✔ AWS Certified Solutions Architect  
+✔ AWS Certified Developer  
+✔ AWS Certified Data Engineer  
+✔ AWS Cloud Practitioner  
+
+---
+
+# 🚀 OPEN TO ROLES (EUROPE / GERMANY)
+
+Actively seeking senior opportunities in:
+
+🔹 Senior Cloud Solution Architect  
+🔹 Senior AWS Data Engineer  
+🔹 Senior Platform Engineer  
+🔹 Senior Backend Engineer  
+🔹 Data Platform Engineer  
+🔹 Cloud Migration Architect  
+🔹 DevOps / Infrastructure Engineer (Senior IC)  
+
+---
+
+# 📍 LOCATION & AVAILABILITY
+
+📍 Berlin, Germany  
+🛂 Chancenkarte Holder (No Sponsorship Required)  
+🌍 Open to relocation across Europe  
+⚡ Immediate Joiner  
+
+---
+
+# 📫 CONTACT
+
+📧 Email: gokul.227.r@gmail.com  
+
+🇩🇪 Germany: +49 1521 5720743  
+🇮🇳 India: +91 9943316256  
+🇺🇸 US: +1 (647) 957-5025  
+
+💻 GitHub: github.com/gokul-227  
+🌐 Portfolio: gokul-portfolio-227.web.app  
+
+---
+
+<div align="center">
+
+⭐ Designing Scalable Cloud & Data Platforms for Global Enterprises ⭐
+
+</div>
+
 
 # 🤝 Connect With Me
 
@@ -186,18 +374,6 @@ I focus on building **production-grade, mission-critical systems that scale reli
 
 ---
 
-# 🔹 WHY CLIENTS HIRE ME
-
-⭐ Senior-level ownership and accountability  
-⭐ Deep AWS & data engineering expertise  
-⭐ Strong communication and collaboration  
-⭐ Focus on scalable production solutions  
-⭐ Proven enterprise project delivery experience  
-⭐ Reliable and transparent execution  
-⭐ Strong architecture and system design skills  
-⭐ Trusted for mission-critical systems  
-
----
 
 # 🔹 ENGAGEMENT MODELS
 
@@ -238,18 +414,7 @@ I focus on building **production-grade, mission-critical systems that scale reli
 
 ---
 
-# 🔹 ARCHITECTURE EXPERTISE
 
-✔ Enterprise Cloud Architecture  
-✔ Modern Data Lake Architecture  
-✔ Serverless Data Platforms  
-✔ Distributed Data Processing Systems  
-✔ Cloud Migration Architecture  
-✔ ETL Pipeline Architecture  
-✔ Real-time Streaming Systems  
-✔ Secure and Scalable Cloud Systems  
-
----
 
 # 📊 GitHub Analytics
 
